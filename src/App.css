@@ -1,5 +1,12 @@
+body {
+  background-image: url('./assests/background.png');
+  background-position: center;
+  background-size: cover;
+  background-repeat: none;
+}
 .App {
   text-align: left;
+  color: white;
 }
 
 .App-logo {
