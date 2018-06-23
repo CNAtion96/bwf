@@ -164,7 +164,6 @@ class App extends Component {
     ;
     return (
       <div className="App">
-        <button onClick={console.log(Routines.RR.name)}>Console.log</button>
         <div>
           {RR}
         </div>
