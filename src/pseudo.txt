@@ -1,0 +1,18 @@
+for x in RR return (
+<div>
+    <h2>Section Name</h2>
+    if section has sub section use <h3>subSection Name</h3>
+    <ul>
+        for each Exercise in section/subsection 
+        <li>Exercise reps and name</li>
+        if Exercise has a progression use 
+        <li>Exercise Name
+            <br></br>
+            <ul>
+                for each part of the progression
+                <li>progression name</li>
+            </ul>
+        </li>
+    </ul>
+</div>
+)
